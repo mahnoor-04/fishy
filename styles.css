@@ -1,0 +1,35 @@
+.nav-link:hover {
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+}   
+.nav-link {
+    margin-right: 5px;
+    margin-left: 10px;
+}
+body {
+    background-color: rgb(136, 127, 127);
+}
+
+.hallvid {
+    margin-top: 40px;
+}
+
+.bad {
+    width: 70%;
+    text-align: left;
+    margin-top: 40px;
+}
+.badder {
+    width: 70%;
+    text-align: right;
+    margin-top: 40px;
+}
+.liner {
+    float: left;
+    height:150px ;
+}
+.linee {
+    float: right;
+    height: 150px;
+}
